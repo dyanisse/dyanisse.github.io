@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://dyanisse.github.io/sitemap.xml 
+Sitemap: http://yanisse.com/sitemap.xml 

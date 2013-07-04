@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://dyanisse.github.io/atom.xml" rel="self"/>
-  <link href="http://dyanisse.github.io/"/>
-  <updated>2013-07-04T13:09:37-07:00</updated>
-  <id>http://dyanisse.github.io/</id>
+  <title><![CDATA[Daniel Yanisse]]></title>
+  <link href="http://yanisse.com/atom.xml" rel="self"/>
+  <link href="http://yanisse.com/"/>
+  <updated>2013-07-04T14:18:11-07:00</updated>
+  <id>http://yanisse.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Daniel Yanisse]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://dyanisse.github.io/blog/2013/07/04/hello-world/"/>
+    <link href="http://yanisse.com/blog/2013/07/04/hello-world/"/>
     <updated>2013-07-04T13:07:00-07:00</updated>
-    <id>http://dyanisse.github.io/blog/2013/07/04/hello-world</id>
+    <id>http://yanisse.com/blog/2013/07/04/hello-world</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
