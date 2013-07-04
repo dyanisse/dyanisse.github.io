@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://dyanisse.github.io/atom.xml" rel="self"/>
   <link href="http://dyanisse.github.io/"/>
-  <updated>2013-07-04T13:01:40-07:00</updated>
+  <updated>2013-07-04T13:09:37-07:00</updated>
   <id>http://dyanisse.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://dyanisse.github.io/blog/2013/07/04/hello-world/"/>
+    <updated>2013-07-04T13:07:00-07:00</updated>
+    <id>http://dyanisse.github.io/blog/2013/07/04/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>

@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://dyanisse.github.io/blog/2013/07/04/hello-world/</loc>
+        <lastmod>2013-07-04T13:07:13-07:00</lastmod>
+    </url>
+    <url>
         <loc>http://dyanisse.github.io/blog/archives/</loc>
-        <lastmod>2013-07-04T12:31:03-07:00</lastmod>
+        <lastmod>2013-07-04T13:07:13-07:00</lastmod>
     </url>
     <url>
         <loc>http://dyanisse.github.io/</loc>
-        <lastmod>2013-07-04T12:31:03-07:00</lastmod>
+        <lastmod>2013-07-04T13:07:13-07:00</lastmod>
     </url>
     <url>
         <loc>http://dyanisse.github.io/robots.txt</loc>
